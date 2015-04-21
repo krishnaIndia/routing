@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["NAME_TYPE_LEN",""]],"fn":[["slice_equal",""]],"struct":[["NameType","NameType struct"]]});
